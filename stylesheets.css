@@ -1,0 +1,52 @@
+body{
+    padding-left: 20px;
+    background-color: #fffff0;
+}
+
+.hero{
+    margin-top: 60px;
+}
+
+.hero > div {
+    float: left;
+    text-align: center;
+}
+
+.hero > div > p
+
+.hero > div > img {
+    width: 640px;
+    height: 460px;
+}
+
+
+.combos{
+    margin-top: 600px;
+}
+
+.combos > div {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+.combos > div > p {
+    color: brown;
+    padding: 10px 0 20px 0;
+    width: 360px;
+    border-style: outset;
+    border-top: none;
+    margin-left: 34px;
+    margin-top: 0;
+}
+
+.combos > div > img {
+    margin-top: 0px;
+    width: 360px;
+    border-style: outset;
+    border-bottom: 0;
+}
+
+.benefits {
+    background-color: #311815;
+    float: left;
+}
